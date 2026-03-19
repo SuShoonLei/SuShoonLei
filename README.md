@@ -25,9 +25,9 @@
 
 ---
 
-## 🌸 About Me
+## 🎀 About Me
 
-Hey there! I'm **Su Shoon Lei Khaing** (call me **Su** 😊), a graduating Computer Science senior at **SUNY Oswego** (Class of December 2026 🎓).
+Hey there! I'm **Su Shoon Lei Khaing** (call me **Su** ✨), a graduating Computer Science senior at **SUNY Oswego** (Class of December 2026 🎓).
 
 I'm passionate about building things — whether that's a web app, a game, an AI-powered tool, or a handmade candle. I love the intersection of **creativity and technology**, and I bring that energy into everything I build.
 
@@ -102,7 +102,7 @@ su = {
     "hobbies"    : ["Cooking 🍳", "Traveling ✈️", "Candle Making 🕯️",
                     "Lip Gloss Crafting 💄", "Resin Art 🎨"],
     "currently"  : "Building cool projects & preparing to graduate!",
-    "fun_fact"   : "I create things both digitally AND with my hands 💻🤲"
+    "fun_fact"   : "I create things both digitally AND with my hands 💻🖐"
 }
 ```
 
