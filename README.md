@@ -37,14 +37,14 @@
   <!-- Row 3: Tagline -->
   <text x="400" y="143" font-size="12" font-family="Arial,sans-serif" text-anchor="middle" fill="#a78bfa" letter-spacing="2">COMPUTER SCIENCE STUDENT  ·  CREATOR  ·  BUILDER</text>
   <!-- Row 4: School -->
-  <text x="400" y="172" font-size="11" font-family="Arial,sans-serif" text-anchor="middle" fill="#c084fc">✨  CS Senior @ SUNY Oswego  ·  Graduating Dec 2026  ✨</text>
+  <text x="400" y="172" font-size="11" font-family="Arial,sans-serif" text-anchor="middle" fill="#c084fc">✨  CS Senior @ SUNY Oswego  ·  Graduating Dec 2026  🎓 </text>
 </svg>
 
 <br/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=CS+Student+%40+SUNY+Oswego+%F0%9F%8E%93;Game+Dev+%7C+Web+Dev+%7C+AI+%7C+Cybersecurity+%F0%9F%9A%80;Coder+by+day%2C+Foodie+by+night+%F0%9F%95%AF%EF%B8%8F;Crafting+code+%26+food+with+equal+passion+%E2%9C%A8;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=CS+Student+%40+SUNY+Oswego+%F0%9F%8E%93;Game+Dev+%7C+Web+Dev+%7C+AI+%7C+Cybersecurity+%F0%9F%9A%80;Coder+by+day%2C+Foodie+by+night+%F0%9F8D%B1;Crafting+code+%26+food+with+equal+passion+%E2%9C%A8;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
