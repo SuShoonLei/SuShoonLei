@@ -78,14 +78,14 @@
 
 Hey! I'm **Su Shoon Lei Khaing** but call me ⋆. 𐙚˚࿔ **Su** 𝜗𝜚˚⋆
 
-A graduating CS senior at **SUNY Oswego** with a love for building things at the intersection of **creativity and code**. Whether it's a game, a web app, an AI tool or a handmade candle. I put the same passion into everything I create.
+A graduating CS senior at **SUNY Oswego** with a love for building things at the intersection of **creativity and code**. Whether it's a game, a web app, an AI tool or a handmade stuffs. I put the same passion into everything I create.
 
 ```python
 su = {
   "school"     : "SUNY Oswego — CS (Dec 2026)",
   "interests"  : ["Game Dev", "Web Dev", "AI/ML",
                   "App Dev", "Cybersecurity"],
-  "crafts"     : ["Candles 🕯️", "Lip Gloss 💄", "Resin 🎨"],
+  "crafts"     : ["Resin 🎨",  "Lip Gloss 💄", "Candles 🕯️"],
   "also_loves" : ["Cooking 🍳", "Traveling ✈️"],
   "fun_fact"   : "Creates things digitally AND with her hands 💻🤲"
 }
