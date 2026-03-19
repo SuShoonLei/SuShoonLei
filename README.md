@@ -44,7 +44,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=CS+Student+%40+SUNY+Oswego+%F0%9F%8E%93;Game+Dev+%7C+Web+Dev+%7C+AI+%7C+Cybersecurity+%F0%9F%9A%80;Coder+by+day%2C+Foodie+by+night+%F0%9F%8D%B1;Crafting+code+%26+food+with+equal+passion+%E2%9C%A8;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=CS+Student+%40+SUNY+Oswego+%F0%9F%8E%93;Game+Dev+%7C+Web+Dev+%7C+AI+%7C+Cybersecurity+%F0%9F%9A%80;Coder+by+day%2C+Foodie+by+night+🍱;Crafting+code+%26+food+with+equal+passion+%E2%9C%A8;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
