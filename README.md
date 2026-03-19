@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Glitter Border Header SVG -->
-<svg width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#f9a8d4"><animate attributeName="stop-color" values="#f9a8d4;#c084fc;#818cf8;#67e8f9;#86efac;#fde68a;#fca5a5;#f9a8d4" dur="5s" repeatCount="indefinite"/></stop>
@@ -10,8 +10,8 @@
       <stop offset="100%" stop-color="#fde68a"><animate attributeName="stop-color" values="#fde68a;#fca5a5;#f9a8d4;#c084fc;#818cf8;#67e8f9;#86efac;#fde68a" dur="5s" repeatCount="indefinite"/></stop>
     </linearGradient>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#fff0f8"/>
-      <stop offset="50%" stop-color="#fdf4ff"/>
+      <stop offset="0%"   stop-color="#fff0f8"/>
+      <stop offset="50%"  stop-color="#fdf4ff"/>
       <stop offset="100%" stop-color="#f0f9ff"/>
     </linearGradient>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -19,18 +19,37 @@
       <stop offset="100%" stop-color="#9333ea"><animate attributeName="stop-color" values="#9333ea;#6366f1;#0ea5e9;#db2777;#9333ea" dur="4s" repeatCount="indefinite"/></stop>
     </linearGradient>
   </defs>
-  <rect x="2" y="2" width="796" height="206" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="5">
+  <!-- Animated border -->
+  <rect x="2" y="2" width="796" height="226" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="5">
     <animate attributeName="stroke-width" values="4;7;4" dur="2s" repeatCount="indefinite"/>
   </rect>
-  <rect x="7" y="7" width="786" height="196" rx="18" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.35"/>
-  <rect x="9" y="9" width="782" height="192" rx="16" fill="url(#bgGrad)"/>
-  
-  <!-- Content -->
-  <text x="400" y="56" font-size="28" text-anchor="middle"><animate attributeName="y" values="56;51;56" dur="3s" repeatCount="indefinite"/> 👋</text>
-  <text x="400" y="102" font-size="36" font-weight="bold" font-family="Georgia,serif" text-anchor="middle" fill="url(#nameGrad)"> Hi, I'm Su!</text>
-  <line x1="220" y1="114" x2="580" y2="114" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.5"/>
-  <text x="400" y="138" font-size="13" font-family="Arial,sans-serif" text-anchor="middle" fill="#a78bfa" letter-spacing="2">COMPUTER SCIENCE STUDENT  ·  CREATOR  ·  BUILDER</text>
-  <text x="400" y="168" font-size="12" font-family="Arial,sans-serif" text-anchor="middle" fill="#c084fc">✨  CS Senior @ SUNY Oswego  ·  Graduating Dec 2026  ✨</text>
+  <rect x="7" y="7" width="786" height="216" rx="18" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.35"/>
+  <rect x="9" y="9" width="782" height="212" rx="16" fill="url(#bgGrad)"/>
+  <!-- Sparkles -->
+  <text x="28"  y="40"  font-size="14" fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0s"   repeatCount="indefinite"/>✦</text>
+  <text x="54"  y="24"  font-size="9"  fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>✧</text>
+  <text x="16"  y="68"  font-size="11" fill="#67e8f9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1s"   repeatCount="indefinite"/>✦</text>
+  <text x="738" y="36"  font-size="13" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s"   begin="0.3s" repeatCount="indefinite"/>✦</text>
+  <text x="762" y="58"  font-size="9"  fill="#fca5a5" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.8s" repeatCount="indefinite"/>✧</text>
+  <text x="718" y="62"  font-size="11" fill="#86efac" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.4s" repeatCount="indefinite"/>✦</text>
+  <text x="22"  y="178" font-size="12" fill="#fde68a" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.6s" repeatCount="indefinite"/>✦</text>
+  <text x="50"  y="200" font-size="8"  fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.1s" repeatCount="indefinite"/>✧</text>
+  <text x="742" y="182" font-size="13" fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/>✦</text>
+  <text x="766" y="204" font-size="9"  fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s"   begin="0.9s" repeatCount="indefinite"/>✧</text>
+  <text x="16"  y="120" font-size="10" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3s"   begin="1.5s" repeatCount="indefinite"/>✦</text>
+  <text x="772" y="120" font-size="10" fill="#67e8f9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="0.4s" repeatCount="indefinite"/>✦</text>
+  <!-- Row 1: Wave emoji -->
+  <text x="400" y="52" font-size="26" text-anchor="middle">
+    <animate attributeName="y" values="52;47;52" dur="3s" repeatCount="indefinite"/>👋
+  </text>
+  <!-- Row 2: Name -->
+  <text x="400" y="100" font-size="38" font-weight="bold" font-family="Georgia,serif" text-anchor="middle" fill="url(#nameGrad)">Hi, I'm Su!</text>
+  <!-- Divider line -->
+  <line x1="180" y1="115" x2="620" y2="115" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.5"/>
+  <!-- Row 3: Tagline -->
+  <text x="400" y="143" font-size="12" font-family="Arial,sans-serif" text-anchor="middle" fill="#a78bfa" letter-spacing="2">COMPUTER SCIENCE STUDENT  ·  CREATOR  ·  BUILDER</text>
+  <!-- Row 4: School -->
+  <text x="400" y="172" font-size="11" font-family="Arial,sans-serif" text-anchor="middle" fill="#c084fc">✨  CS Senior @ SUNY Oswego  ·  Graduating Dec 2026  ✨</text>
 </svg>
 
 <br/>
@@ -100,10 +119,9 @@ su = {
 ### ⚙️ Backend
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,clojure&theme=light" />
 &nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 
 </div>
 
@@ -112,16 +130,16 @@ su = {
 
 <img src="https://skillicons.dev/icons?i=unity&theme=light" />
 &nbsp;
-![libGDX](https://img.shields.io/badge/libGDX-E74C3C?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java&theme=light" />
+&nbsp;
+![libGDX](https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=libgdx&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
 ### 🧰 Tools & DevOps
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
-&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions&theme=light" />
 
 </div>
 
@@ -178,7 +196,7 @@ $ ls current_ops/
 
 ---
 
-##.✦ ݁˖ Fun Facts ⋆.𐙚 ̊🧸
+## .✦ ݁˖ Fun Facts ⋆.𐙚 ̊🧸
 
 > 🕯️ I make candles, lip gloss & resin art — creativity doesn't stop at the IDE
 >
@@ -203,8 +221,6 @@ $ ls current_ops/
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=SuShoonLei&label=Profile+Views&color=c084fc&style=flat-square" alt="profile views"/>
 
