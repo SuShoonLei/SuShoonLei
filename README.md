@@ -24,22 +24,10 @@
   </rect>
   <rect x="7" y="7" width="786" height="196" rx="18" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.35"/>
   <rect x="9" y="9" width="782" height="192" rx="16" fill="url(#bgGrad)"/>
-  <!-- Sparkles -->
-  <text x="28"  y="40"  font-size="14" fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0s"   repeatCount="indefinite"/>✦</text>
-  <text x="54"  y="24"  font-size="9"  fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>✧</text>
-  <text x="16"  y="68"  font-size="11" fill="#67e8f9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1s"   repeatCount="indefinite"/>✦</text>
-  <text x="738" y="36"  font-size="13" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s"   begin="0.3s" repeatCount="indefinite"/>✦</text>
-  <text x="762" y="58"  font-size="9"  fill="#fca5a5" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.8s" repeatCount="indefinite"/>✧</text>
-  <text x="718" y="62"  font-size="11" fill="#86efac" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.4s" repeatCount="indefinite"/>✦</text>
-  <text x="22"  y="158" font-size="12" fill="#fde68a" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.6s" repeatCount="indefinite"/>✦</text>
-  <text x="50"  y="180" font-size="8"  fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.1s" repeatCount="indefinite"/>✧</text>
-  <text x="742" y="162" font-size="13" fill="#f9a8d4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/>✦</text>
-  <text x="766" y="184" font-size="9"  fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s"   begin="0.9s" repeatCount="indefinite"/>✧</text>
-  <text x="16"  y="112" font-size="10" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3s"   begin="1.5s" repeatCount="indefinite"/>✦</text>
-  <text x="772" y="108" font-size="10" fill="#67e8f9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="0.4s" repeatCount="indefinite"/>✦</text>
+  
   <!-- Content -->
-  <text x="400" y="56" font-size="28" text-anchor="middle"><animate attributeName="y" values="56;51;56" dur="3s" repeatCount="indefinite"/>👋</text>
-  <text x="400" y="102" font-size="36" font-weight="bold" font-family="Georgia,serif" text-anchor="middle" fill="url(#nameGrad)">Hi, I'm Su!</text>
+  <text x="400" y="56" font-size="28" text-anchor="middle"><animate attributeName="y" values="56;51;56" dur="3s" repeatCount="indefinite"/> 👋</text>
+  <text x="400" y="102" font-size="36" font-weight="bold" font-family="Georgia,serif" text-anchor="middle" fill="url(#nameGrad)"> Hi, I'm Su!</text>
   <line x1="220" y1="114" x2="580" y2="114" stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.5"/>
   <text x="400" y="138" font-size="13" font-family="Arial,sans-serif" text-anchor="middle" fill="#a78bfa" letter-spacing="2">COMPUTER SCIENCE STUDENT  ·  CREATOR  ·  BUILDER</text>
   <text x="400" y="168" font-size="12" font-family="Arial,sans-serif" text-anchor="middle" fill="#c084fc">✨  CS Senior @ SUNY Oswego  ·  Graduating Dec 2026  ✨</text>
