@@ -76,9 +76,9 @@
 ## 🎀 About Me
 <img align="right" src="https://github.com/SuShoonLei.png" width="200" style="border-radius:50%; border: 3px solid #c084fc;"/>
 
-Hey! I'm **Su Shoon Lei Khaing** — call me ⋆. 𐙚˚࿔ **Su** 𝜗𝜚˚⋆
+Hey! I'm **Su Shoon Lei Khaing** but call me ⋆. 𐙚˚࿔ **Su** 𝜗𝜚˚⋆
 
-A graduating CS senior at **SUNY Oswego** with a love for building things at the intersection of **creativity and code**. Whether it's a game, a web app, an AI tool — or a handmade candle — I put the same passion into everything I create.
+A graduating CS senior at **SUNY Oswego** with a love for building things at the intersection of **creativity and code**. Whether it's a game, a web app, an AI tool or a handmade candle. I put the same passion into everything I create.
 
 ```python
 su = {
