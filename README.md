@@ -120,8 +120,7 @@ su = {
 &nbsp;
 <img src="https://skillicons.dev/icons?i=java&theme=light" />
 &nbsp;
-![libGDX](https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=libgdx&logoColor=white&labelColor=1a1a2e)
-
+<img src="https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=libgdx&logoColor=white&labelColor=1a1a2e" alt="libGDX"/>
 </div>
 
 ### 🧰 Tools & DevOps
