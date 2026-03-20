@@ -124,9 +124,22 @@ su = {
 </div>
 
 ### 🧰 Tools & DevOps
+
+#### IDEs & Editors
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,xcode&theme=light" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&labelColor=1a1a2e" alt="Cursor"/>
+
+</div>
+
+#### DevOps & Environment
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions&theme=light" />
+&nbsp;
+<img src="https://img.shields.io/badge/Terminal-1a1a2e?style=flat-square&logo=gnubash&logoColor=86efac&labelColor=0d0d0d" alt="Terminal"/>
 
 </div>
 
