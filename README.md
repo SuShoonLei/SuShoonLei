@@ -100,46 +100,51 @@ su = {
 ### 🎨 Frontend
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ### ⚙️ Backend
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,clojure&theme=light" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ### 🎮 Game Development
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity&theme=light" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=light" />
-&nbsp;
-<img src="https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=libgdx&logoColor=white&labelColor=1a1a2e" alt="libGDX"/>
-</div>
-
-### 🧰 Tools & DevOps
-
-#### IDEs & Editors
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,xcode&theme=light" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white&labelColor=1a1a2e" alt="Cursor"/>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![libGDX](https://img.shields.io/badge/libGDX-E74C3C?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
-#### DevOps & Environment
+### 🧰 IDEs & Editors
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,githubactions&theme=light" />
-&nbsp;
-<img src="https://img.shields.io/badge/Terminal-1a1a2e?style=flat-square&logo=gnubash&logoColor=86efac&labelColor=0d0d0d" alt="Terminal"/>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+</div>
+
+### ⚡ DevOps & Environment
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -173,16 +178,6 @@ su = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SuShoonLei&theme=radical&no-frame=true&row=1&column=7&margin-w=6" />
-
-</div>
-
----
-
 ## ⚡ Currently Up To
 
 ```bash
@@ -198,7 +193,7 @@ $ ls current_ops/
 
 ## .✦ ݁˖ Fun Facts ⋆.𐙚 ̊🧸
 
-> 🕯️ I make candles, lip gloss & resin art — creativity doesn't stop at the IDE
+> 🕯️ I make candles, lip gloss & resin art; creativity doesn't stop at the IDE
 >
 > 🍜 I will travel anywhere for great food
 >
@@ -226,6 +221,6 @@ $ ls current_ops/
 
 <br/>
 
-*✨ Thanks for visiting — feel free to explore my projects and say hi! ✨*
+*✨ Thanks for visiting! feel free to explore my projects and say hi! ✨*
 
 </div>
