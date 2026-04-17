@@ -154,15 +154,12 @@ su = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuShoonLei&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=c084fc&icon_color=f9a8d4&text_color=e2e2e2" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuShoonLei&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a2e&title_color=c084fc&text_color=e2e2e2" height="170"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuShoonLei&theme=rose-pine&hide_border=true&background=1a1a2e&ring=c084fc&fire=f9a8d4&currStreakLabel=c084fc&sideLabels=c084fc&dates=888888" />
 
 </div>
 
