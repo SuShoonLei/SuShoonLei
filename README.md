@@ -165,15 +165,6 @@ su = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuShoonLei&theme=react-dark&bg_color=1a1a2e&color=c084fc&line=f9a8d4&point=fde68a&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## ⚡ Currently Up To
 
