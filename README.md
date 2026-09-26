@@ -181,7 +181,7 @@ su = {
 $ ls current_ops/
   ├── 🎮  Exploring game development & interactive design
   ├── 🤖  Building AI-powered projects
-  ├── 🔐  Learning cybersecurity fundamentals
+  ├── 🔐  Learning cybersecurity 
   ├── 🎓  Finishing strong — graduating December 2026
   └── 🌏  Dreaming up the next travel destination ✈️
 ```
